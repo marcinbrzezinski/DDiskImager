@@ -1,0 +1,2 @@
+W tym folderze będą znajdowały się logi programu, można wskazywać go jako miejsce docelowe dla tworzonych obrazów
+ podając jako ścieżkę dla pliku wynikowego: ./Files/"nazwa_obrazu"
