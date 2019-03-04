@@ -21,7 +21,7 @@ def check_hash(input, output):
 
 
 print("===============================")
-print("        DDiskImager v1.0")
+print("        DDiskImager.py v1.0")
 print("===============================\n")
 
 print("Pamiętaj! Uruchom program z uprawnieniami root'a! (sudo ./main.py)\n")
